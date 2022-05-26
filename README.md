@@ -3,3 +3,5 @@ This is a simple game coded with python to run snake on command prompt. NOTE: TH
 
 Using the python console will result in really slow output, it is recommended to build the game first to a .exe file.
 When asked for characters please only input one single character, inputting more than one will result in breaking the game
+
+Run redo.py
